@@ -1,0 +1,7 @@
+usage.csv
+label,value,limit
+Storage A,40,100
+Storage B,90,100
+Storage C,76,80
+Storage D,120,120
+Storage E,66,60
